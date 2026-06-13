@@ -185,7 +185,7 @@ using Power BI Desktop.
 ├── customer_shoping_behavior.ipynb
 ├── Customer_behavior_sql_qurey.sql
 ├── customer_behavior_dashboard.pbix
-├── Presentation.pptx
+├── Presentation.pdf
 └── README.md
 ```
 
